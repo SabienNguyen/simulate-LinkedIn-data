@@ -95,22 +95,6 @@ This spins up:
 * Go to your cluster → `Topics` → `user_activity` → `Messages`
 * Watch the live stream of user events
 
----
-
-## 💾 Persistence
-
-Kafka and Zookeeper data are persisted using Docker **volumes**:
-
-* Messages and topics remain intact across restarts.
-* You can safely stop and restart with:
-
-  ```bash
-  docker-compose down
-  docker-compose up -d
-  ```
-
----
-
 ## 🧰 Tech Stack
 
 | Component                     | Purpose                      |
