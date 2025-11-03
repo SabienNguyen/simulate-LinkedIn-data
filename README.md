@@ -1,7 +1,3 @@
-Absolutely! Here’s a clean, professional **README.md** you can use for your LinkedIn Activity Simulation project — built with **Kafka**, **Docker**, and **Python**:
-
----
-
 # 🧠 LinkedIn Activity Stream Simulator
 
 A lightweight Python + Kafka project that simulates **LinkedIn-style user activity streams** — producing and consuming events in real-time using **Apache Kafka** and **Docker Compose**.
